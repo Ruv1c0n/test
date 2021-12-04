@@ -1,1 +1,2 @@
 hello, friend <3
+goodbye
